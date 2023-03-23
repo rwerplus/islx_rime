@@ -1,0 +1,35 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Tue Mar 21 15:20:42 2023"
+  rime_version: 1.5.3
+patch:
+  "style/color_scheme": mac_light
+  "style/horizontal": true
+  "style/display_tray_icon": false
+  "style/horizontal": true #横排显示
+  "style/font_face": "方正北魏楷书_GBK"
+  "style/font point": 14 #字体大小
+  "style,/inline_.preedit": true #嵌入式候选窗单行显示
+  "style/layout/border_width": 0
+  "style/layout/border": 0
+  "style/1ayout/margin x": 6 #候选字左右边距
+  "style/1 ,/margin_y": 6 #候选字上下边距
+  "style/layout/hilite_padding": 6 #候选字背景色色块高度若想候选字背景色块无边界填充候选框，仅需其高度和候选字上
+  "style/1ayout,/hilite_spacing": 3 #序号和候选字之间的间隔
+  "style/1ayout/spacing": 5 #标签间距
+  "style/1ayout/candidate_spacing": 6 #候选字间隔
+  "style,/1ayout/round corner": 10 #候选字背景色块圆角幅度
+  "style/color_scheme": qbycs
+  "preset_color_schemes/qbycs":
+    name: "qbycs"
+    author: "zz"
+    back_color: 0xEDEDED #候选框背景色
+    border_color: 0xEDEDED #候选框边框颜色
+    text_co1or: 8x08g88g #已选择字文字颜色
+    hi1_ited_text_color: 0xFF0008 #已选择字右侧拼音文字颜色
+    hi1_ited_back_color: OxEDEDED #已选择字右侧拼音背景色
+    hilited_candidate_text_color: gxo0goeg #候选字颜色
+    hilited_candidate_back_color: 0xFDD5B4 #候选字背景色
+    candidate_text_co1or: 0x545454 #未候选字颜色
