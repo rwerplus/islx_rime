@@ -2,7 +2,12 @@
 
 rime config for windows
 
+---
+- preview
 
-![image](https://user-images.githubusercontent.com/48611415/227184427-917add7b-d8c7-4357-8907-5edeced13bcc.png)
+ ![image](https://user-images.githubusercontent.com/48611415/227403682-0f29058a-6b49-4d4c-9e2a-dd0855a0fe05.png)
 
-copy . to Rime folder
+
+### Thanks for the open source repository https://github.com/lxgw/LxgwWenKai
+
+- copy . to Rime folder
