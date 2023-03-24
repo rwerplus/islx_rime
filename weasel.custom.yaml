@@ -9,7 +9,7 @@ patch:
   "style/horizontal": true
   "style/display_tray_icon": false
   "style/horizontal": true #横排显示
-  "style/font_face": "方正北魏楷书_GBK"
+  "style/font_face": "LXGW WenKai"
   "style/font point": 14 #字体大小
   "style,/inline_.preedit": true #嵌入式候选窗单行显示
   "style/layout/border_width": 0
